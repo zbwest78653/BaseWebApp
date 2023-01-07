@@ -32,3 +32,22 @@ button {
   height: 200px;
   margin-top: 60px;
 }
+
+.nav
+{
+background: #EF4136;
+color: #fff;
+}
+
+.nav ul
+{
+display:flex;
+list-style-type: none;
+font-size: 75%;
+}
+
+.nav ul li
+{
+display:flex;
+padding: 1rem 1rem 0rem 1rem;
+}
